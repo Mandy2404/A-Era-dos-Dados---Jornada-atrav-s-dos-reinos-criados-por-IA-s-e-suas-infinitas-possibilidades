@@ -11,7 +11,7 @@ Ferramentas utilizadas
 - Prompts utilizados
 - [Prompts projeto.docx](https://github.com/user-attachments/files/18589361/Prompts.projeto.docx)
 
-- Imagem gerada por Leonardo IA: ![Era dos dados capa](https://github.com/user-attachments/assets/7b4d43b8-6970-461a-9b32-e7538740bddd)
+- Imagem de capa gerada por Leonardo IA: ![Era dos dados capa](https://github.com/user-attachments/assets/7b4d43b8-6970-461a-9b32-e7538740bddd)
 
 - Áudio do podcast: https://soundcloud.com/amanda-gentilini/inicio-da-jornada-pelo-mundo-das-iasmp3?si=3ddaf64094914dbe8e179203929c7549&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
