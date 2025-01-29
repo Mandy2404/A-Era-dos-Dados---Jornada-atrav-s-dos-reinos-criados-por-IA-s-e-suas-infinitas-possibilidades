@@ -1,4 +1,4 @@
-#A era dos dados - Jornada através dos reinos criados por IA's e suas infinitas possibilidades#
+A era dos dados - Jornada através dos reinos criados por IA's e suas infinitas possibilidades
 
 Podcast de tecnologia, focado em IA’s generativas cujo nome é “A Era dos Dados - Jornada através dos reinos criados por IA e suas infinitas possibilidades.” e tem foco em IA’s generativas com o público alvo de iniciantes em IA’s generativas.
 
