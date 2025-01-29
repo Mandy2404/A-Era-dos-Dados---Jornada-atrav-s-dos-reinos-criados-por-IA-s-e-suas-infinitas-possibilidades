@@ -4,7 +4,8 @@ Podcast de tecnologia, focado em IA’s generativas cujo nome é “A Era dos Da
 
 Ferramentas utilizadas
 - [ChatGPT](https://chatgpt.com/)
-- Leonardo IA
+- [Leonardo IA](https://leonardo.ai/)
+- [ElevenLabs](https://elevenlabs.io/)
 - CapCut
 
 - Prompts utilizados
